@@ -1,0 +1,17 @@
+{
+  "name": "webpack-min-like",
+  "version": "0.0.1",
+  "description": "自己从功能出发，实现一个类似webpack的最小实现。主要是为了掌握webpack的打包原理。",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "qiaoyang",
+  "license": "ISC"
+}
