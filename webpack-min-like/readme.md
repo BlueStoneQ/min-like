@@ -1,5 +1,11 @@
 ## 主题
-自己从功能出发，实现一个类似webpack的最小实现。主要是为了掌握webpack的打包原理。
+自己从功能出发，实现一个类似webpack的最小实现。
+主要是为了掌握webpack的打包原理。
+学习webpack的架构设计。
+### 实现功能
+- 打包主流程
+- loader机制实现
+- 插件机制实现
 
 ## 参考
 - [Webpack 原理——如何实现代码打包](https://www.zoo.team/article/webpack-reason)
